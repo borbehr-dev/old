@@ -1,4 +1,2 @@
-# borbehr.eu.org
-
-Весь исходный код сайта https://borbehr.eu.org/
-Статус на https://status.borbehr.eu.org/
+OLD SITE
+https://ghp.borbehr.eu.org/old
